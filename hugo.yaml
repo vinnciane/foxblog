@@ -54,14 +54,14 @@ menu:
         type: search
     - name: GitHub
       weight: 7
-      url: "https://github.com/vinnciane/adoc2"
+      url: "https://github.com/vinnciane/foxblog"
       params:
         icon: github
-    - name: Linkedin
-      weight: 8
-      url: "https://www.linkedin.com/company/arcad-software/"
-      params:
-        icon: linkedin
+#    - name: Linkedin
+#      weight: 8
+#      url: "https://www.linkedin.com/company/arcad-software/"
+#      params:
+#        icon: linkedin
 
 params:
   navbar:
@@ -80,7 +80,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/vinnciane/adoc2/edit/main/content"
+    base: "https://github.com/vinnciane/foxblog/edit/main/content"
 
   services:
     googleAnalytics:
