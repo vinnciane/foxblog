@@ -13,7 +13,7 @@ languages:
     languageName: Français
     languageCode: fr-FR
     weight: 2
-     title: Fox pour i
+    title: Fox pour i
 
 # import hextra as module
 module:
