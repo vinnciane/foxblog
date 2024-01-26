@@ -1,4 +1,4 @@
-# Test mutlilingual site with hugo/hextra
+# Test multilingual site with hugo/hextra
 
 EN/FR
 
