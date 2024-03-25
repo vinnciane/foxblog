@@ -18,7 +18,7 @@ Some how to and FAQ
 
 ## FAQ
 
-### Is fox hunting Cruel ?  
+### Is fox hunting cruel ?  
 yes.
 
 ### Are foxes the cutest ?  
