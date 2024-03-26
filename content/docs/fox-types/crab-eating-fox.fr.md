@@ -1,7 +1,7 @@
 ---
 title: Renard des savanes
 type: docs
-prev: docs/fox-type/
+weight: 101
 ---
 
 Le Renard des savanes (Cerdocyon thous), encore appelé Renard crabier, chien des bois, ou Petit loup, est l'unique espèce encore vivante du genre Cerdocyon. Il vit en Amérique du Sud (Argentine, Venezuela, Paraguay, Uruguay).

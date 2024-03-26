@@ -1,8 +1,7 @@
 ---
 title: Fox types
 type: docs
-prev: docs/first-page
-next: docs/fox-types/crab-eating-fox
+weight: 100
 sidebar:
   open: true
 ---

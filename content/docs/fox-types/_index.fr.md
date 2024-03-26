@@ -1,8 +1,7 @@
 ---
 title: Types de renards
 type: docs
-prev: docs/first-page
-next: docs/fox-types/crab-eating-fox.fr
+weight: 100
 sidebar:
   open: true
 ---
