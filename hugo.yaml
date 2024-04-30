@@ -69,7 +69,7 @@ params:
     logo:
       path: images/fox-light.svg
       dark: images/fox-dark.svg
-      link: /
+      link: https://vinnciane.github.io/foxblog/
       width: 50
       height: 50
 
